@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **How to sleep in 2 secs or stay awake and invest in stock market**
+- 💬 Ask me about **How to sleep in 2 secs**
 
 - 📫 How to reach me **goyalaarush92@gmail.com**
 
