@@ -1,13 +1,7 @@
 <h1 align="center">Hi, I am Aarush Goyal 🚀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **How to sleep in 2 secs**
-
-- 📫 How to reach me **goyalaarush92@gmail.com**
-
-- ⚡ Fun fact **Well nothing is funny about me**
+![GitHub metrics](https://metrics.lecoq.io/Aarush-Goyal?base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&tweets=1&languages=1&gists=1&isocalendar.duration=half-year&tweets.limit=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
