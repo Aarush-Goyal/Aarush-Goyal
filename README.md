@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I am Aarush Goyal 🚀</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-![GitHub metrics](https://metrics.lecoq.io/Aarush-Goyal?base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&tweets=1&languages=1&gists=1&isocalendar.duration=half-year&tweets.limit=4)
-
+![GitHub metrics](https://metrics.lecoq.io/Aarush-Goyal?base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&tweets=1&languages=1&isocalendar.duration=half-year&tweets.limit=4)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aarushgoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aarushgoyal" height="30" width="40" /></a>
