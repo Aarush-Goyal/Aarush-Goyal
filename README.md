@@ -8,3 +8,5 @@
 <a href="https://linkedin.com/in/aarush-goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aarush-goyal" height="30" width="40" /></a>
 <a href="https://instagram.com/aarushgoyal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aarushgoyal_" height="30" width="40" /></a>
 </p>
+
+<p align="center"><a href="https://www.notion.so/goyalaarush/3ee1ee537152481abca85531d7b0fbf2?v=f7e9cb6be7824bd6aa9fcdc73fa6ccfa">Want to to know what I am upto?</a></p>
