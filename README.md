@@ -10,3 +10,6 @@
 </p>
 
 <!-- <p align="center"><a href="https://www.notion.so/goyalaarush/3ee1ee537152481abca85531d7b0fbf2?v=f7e9cb6be7824bd6aa9fcdc73fa6ccfa">Want to to know what I am upto?</a></p> -->
+
+<p align="center"> Support me by donating some crypto 🪙</p>
+<p align="center"><code>0xBa53AE175b082114d55ff2F1D40654F303cAf47D</code></p>
