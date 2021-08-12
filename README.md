@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="center"> Support Me </h2>
+<h1 align="center"> Support Me </h1>
 
 <br>
 
