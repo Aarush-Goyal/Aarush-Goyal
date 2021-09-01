@@ -5,11 +5,12 @@
 <p align="center">
 <a href="https://dev.to/aarushgoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aarushgoyal" height="30" width="40" /></a>
 <a href="https://twitter.com/aarushgoyal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aarushgoyal_" height="30" width="40" /></a>
+<a href="https://github.com/Aarush-Goyal/Aarush-Goyal/blob/main/resume.pdf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12.0/icons/files.svg" alt="aarushgoyal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aarush-goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aarush-goyal" height="30" width="40" /></a>
 <a href="https://instagram.com/aarushgoyal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aarushgoyal_" height="30" width="40" /></a>
 </p>
 
 <!-- <p align="center"><a href="https://www.notion.so/goyalaarush/3ee1ee537152481abca85531d7b0fbf2?v=f7e9cb6be7824bd6aa9fcdc73fa6ccfa">Want to to know what I am upto?</a></p> -->
 
-<p align="center"> Support me by donating some crypto</p>
-<p align="center"><code>0xBa53AE175b082114d55ff2F1D40654F303cAf47D</code></p>
+<p align="center">Drop some NEAR on <code>aarushgoyal.near</code></p>
+
