@@ -11,6 +11,7 @@
 </p>
 
 <!-- <p align="center"><a href="https://www.notion.so/goyalaarush/3ee1ee537152481abca85531d7b0fbf2?v=f7e9cb6be7824bd6aa9fcdc73fa6ccfa">Want to to know what I am upto?</a></p> -->
-
+<p align="center"> <a href="https://github.com/Aarush-Goyal/Aarush-Goyal/blob/main/resume.md"> Check out my resume 📎 </a> </p> 
 <p align="center">Drop some NEAR on <code>aarushgoyal.near</code></p>
+
 
