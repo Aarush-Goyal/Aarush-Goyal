@@ -60,10 +60,14 @@ user input and managed time-sensitive updates, including content changes and dat
 
 ## Skills
 
-|   |   |
-|---|---|
-| Languages | Python, JavaScript, TypeScript, GoLang, Rust, HTML, CSS |
-| Frameworks and Libraries | Nodejs, React, Nextjs, Express, Nestjs, Fiber Redux, Web3, Near Blockchain|
-| Cloud | Docker, Kubernetes, Prometheus, CI/CD, Github Actions, AWS, GCP|
-| Developer Tools|Postman, Fish, Git, Github, Nginx, Figma|
-| Databases|PostgreSQL, MYSQL, MongoDB, Ceramic|
+|                          |                                                                            |
+|--------------------------|----------------------------------------------------------------------------|
+| Languages                | Python, JavaScript, TypeScript, GoLang, Rust, HTML, CSS                    |
+| Frameworks and Libraries | Nodejs, React, Nextjs, Express, Nestjs, Fiber Redux, Web3, Near Blockchain |
+| Cloud                    | Docker, Kubernetes, Prometheus, CI/CD, Github Actions, AWS, GCP            |
+| Developer Tools          | Postman, Fish, Git, Github, Nginx, Figma                                   |
+| Databases                |PostgreSQL, MYSQL, MongoDB, Ceramic                                         |
+
+---
+
+<p align="center" > <a href="https://github.com/Aarush-Goyal/Aarush-Goyal/raw/main/resume.pdf"> Download pdf </a> </p>
