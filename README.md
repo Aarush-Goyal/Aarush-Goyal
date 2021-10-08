@@ -5,10 +5,10 @@
 ```
 
 
-<img align="left" src="https://user-images.githubusercontent.com/64161383/136497781-f9f47247-8d32-4bb2-a108-49a6a5e2afb9.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://user-images.githubusercontent.com/64161383/136497781-f9f47247-8d32-4bb2-a108-49a6a5e2afb9.png" alt="" width="320" /> 
 
 ```csharp
-aarush-goyal@github
+co-founder@job-unicorn
 -------------------------
 OS: Arch Linux x86_64
 Shell: fish 3.3
