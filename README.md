@@ -13,7 +13,7 @@ co-founder@job-unicorn
 OS: Arch Linux x86_64
 Shell: fish 3.3
 Location: Delhi, India
-Interesrs: Web3, DevOps
+Interests: Web3, DevOps
 Frameworks: React, Next, Express
 Languages: JavaScript, TypeScript,
            Golang, Rust, Python
