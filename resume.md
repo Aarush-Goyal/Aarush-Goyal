@@ -14,7 +14,7 @@
 ## Experience
 
   ### Cadence IQ
-  > ***Sofwtare Engineering Intern***
+  > ***Software Engineering Intern***
   > ---
   
   > *Jun 2021 – August 2021*
@@ -27,7 +27,7 @@ Executives which increased lead conversion by over 10x and boosted profits befor
       
 
   ### Coin Distro
-  > Sofwtare Engineering Intern
+  > Software Engineering Intern
   > ---
   
   > *Jun 2020 – Jun 2021*
