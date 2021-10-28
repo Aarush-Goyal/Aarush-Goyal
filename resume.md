@@ -4,12 +4,6 @@
 
 ---
 
-## Education
-
-| Institution Name  | Course                                               | Duration               |
-| ----------------- | ---------------------------------------------------- | ---------------------- |
-| IIT Madras        | Bachelors of Science in Data Science and Programming | Sept. 2021 – Aug. 2024 |
-| Christ University | Bachelors of Computer Applications                   | July 2021 – May 2024   |
 
 ## Experience
 
